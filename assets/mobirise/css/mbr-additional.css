@@ -1861,15 +1861,6 @@ section.lazy-placeholder:after {
 .cid-s2LJRhx0i2 UL {
   text-align: left;
 }
-.cid-s4VBWxb2jB {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-s4VBWxb2jB .mbr-section {
-  text-align: center;
-  color: #fff;
-}
 .cid-s2APBtaw9n {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2542,14 +2533,26 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s4VCqhjvyj {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
+.cid-sf0KEhzi3Z {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-s4VCqhjvyj .mbr-section {
-  text-align: center;
+.cid-sf0KEhzi3Z .title {
+  margin-bottom: 2rem;
+}
+.cid-sf0KEhzi3Z .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-sf0KEhzi3Z a:not([href]):not([tabindex]) {
   color: #fff;
+  border-radius: 3px;
+}
+.cid-sf0KEhzi3Z a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-sf0KEhzi3Z textarea.form-control {
+  min-height: 188px;
 }
 .cid-s2B0SU75GZ {
   padding-top: 30px;
