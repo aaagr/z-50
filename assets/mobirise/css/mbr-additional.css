@@ -1236,29 +1236,6 @@ section.lazy-placeholder:after {
   text-align: left;
   color: #000000;
 }
-.cid-s7o08QItSC {
-  background: #ffffff;
-}
-.cid-s7o08QItSC .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-s7o08QItSC .mbr-figure {
-  margin: 0 auto;
-}
-.cid-s7o08QItSC figcaption {
-  position: relative;
-}
-.cid-s7o08QItSC figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s7o08QItSC .image-block {
-    width: 100% !important;
-  }
-}
 .cid-s2zztZWOlK {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1508,29 +1485,6 @@ section.lazy-placeholder:after {
 }
 .cid-s2AQ0OQXw2 H5 {
   color: #ffffff;
-}
-.cid-s7ovdYtIuc {
-  background: #ffffff;
-}
-.cid-s7ovdYtIuc .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-s7ovdYtIuc .mbr-figure {
-  margin: 0 auto;
-}
-.cid-s7ovdYtIuc figcaption {
-  position: relative;
-}
-.cid-s7ovdYtIuc figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s7ovdYtIuc .image-block {
-    width: 100% !important;
-  }
 }
 .cid-s2zzyg77HJ {
   padding-top: 90px;
@@ -2432,6 +2386,9 @@ section.lazy-placeholder:after {
 }
 .cid-s2z1claymC .count {
   color: #ffffff;
+}
+.cid-s2z1claymC H3 {
+  text-align: left;
 }
 .cid-s2zlO7Sc53 {
   padding-top: 90px;
