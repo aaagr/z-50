@@ -2075,6 +2075,9 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
+            },
+            "H3": {
+              "text-align": "center"
             }
           },
           "_name": "counters3",
