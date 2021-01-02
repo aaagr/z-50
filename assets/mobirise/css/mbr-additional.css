@@ -2313,6 +2313,7 @@ section.lazy-placeholder:after {
 .cid-skYWmALEvV .mbr-content-text {
   color: #767676;
   margin-bottom: 0;
+  text-align: left;
 }
 .cid-skYWmALEvV .card {
   word-wrap: break-word;
@@ -2325,6 +2326,7 @@ section.lazy-placeholder:after {
   font-size: 32px;
   border: 2px solid #efefef;
   border-radius: 50%;
+  text-align: left;
 }
 @media (max-width: 991px) {
   .cid-skYWmALEvV .img-text {
@@ -2367,6 +2369,9 @@ section.lazy-placeholder:after {
 .cid-skYWmALEvV .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
+}
+.cid-skYWmALEvV H4 {
+  text-align: left;
 }
 .cid-skYWpVNBu0 {
   padding-top: 90px;
