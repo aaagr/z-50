@@ -1239,6 +1239,29 @@ section.lazy-placeholder:after {
   text-align: left;
   color: #000000;
 }
+.cid-snzSiHMdq0 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-snzSiHMdq0 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-snzSiHMdq0 .section-text {
+  padding: 2rem 0;
+}
+.cid-snzSiHMdq0 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-snzSiHMdq0 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-skRgFtRo6e {
   padding-top: 30px;
   padding-bottom: 0px;
